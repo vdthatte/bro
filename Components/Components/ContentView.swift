@@ -6,8 +6,7 @@ struct ContentView: View {
   var body: some View {
     Text("Hello")
     .foregroundColor(.blue)
-    // write your S
-    wift UI code here
+    // write your Swift UI code here
   }
 }
             
