@@ -4,7 +4,8 @@ import SwiftUI
 
 struct ContentView: View {
   var body: some View {
-    Text("Hello World")
+    Text("Hello")
+    .foregroundColor(.blue)
     // write your Swift UI code here
   }
 }
